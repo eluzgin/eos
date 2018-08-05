@@ -29,7 +29,8 @@
 #
 # https://github.com/EOSIO/eos/blob/master/LICENSE
 ##########################################################################
-
+   source terms.sh
+   
    SOURCE_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
    function usage()
